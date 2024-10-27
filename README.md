@@ -1,9 +1,9 @@
 # Police-Dataset-DA-
 
 #**Project Overview**:  
-This project involves data analysis Police Data dataset.  
-The primary objective of this project is to analyze police stop data to understand driver demographics, including age, gender, and race.  
-Additionally, it aims to identify trends in violation types and evaluate stop outcomes, such as arrest rates and search conduct.   
+In this project, I conducted a data analysis on a Police Data dataset.  
+The main objective is to explore police stop data to gain insights into driver demographics, including age, gender, and race.   
+Additionally, the analysis identifies trends in violation types and evaluates stop outcomes, such as arrest rates and search activity.  
 
 
 #**Dataset Overview**:  
