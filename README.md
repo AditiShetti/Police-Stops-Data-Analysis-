@@ -5,6 +5,7 @@ In this project, I conducted a data analysis on a Police Data dataset.
 The main objective is to explore police stop data to gain insights into driver demographics, including age, gender, and race.   
 Additionally, the analysis identifies trends in violation types and evaluates stop outcomes, such as arrest rates and search activity.  
 
+![Screenshot 2024-11-19 141752](https://github.com/user-attachments/assets/900ae8f2-6679-4fbc-9724-6403a7e25611)
 
 #**Dataset Overview**:  
 This dataset contains 65535 rows and 15 columns.
