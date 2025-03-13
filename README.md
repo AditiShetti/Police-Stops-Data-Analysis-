@@ -12,7 +12,7 @@ Additionally, the analysis identifies trends in violation types and evaluates st
 # **Dataset Overview**:  
 This dataset contains 65535 rows and 15 columns.
 
-📅 stop_date: Date of the stop  
+📅 *stop_date*: Date of the stop  
 ⏰ stop_time: Time of the stop  
 🚹 driver_gender: Gender of the driver  
 🎂 driver_age_raw: Year of birth of the driver  
