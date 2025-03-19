@@ -9,8 +9,6 @@ from PIL import Image
 #Title
 st.title(" Police Stops Interactive Insights ")
 
-st.success('great')
-
 #Project objective
 st.header("Project Objective:")
 st.write("In this project, I have conducted a data analysis on a Police Stops dataset.")
