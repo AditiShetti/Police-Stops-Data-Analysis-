@@ -9,7 +9,7 @@ from PIL import Image
 #Title
 st.title(" Police Stops Interactive Insights ")
 
-st.balloons()
+st.success()
 
 #Project objective
 st.header("Project Objective:")
