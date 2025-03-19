@@ -14,7 +14,7 @@ st.header("Project Objective:")
 st.write("In this project, I have conducted a data analysis on a Police Stops dataset.")
 st.write("The main objective is to explore police stop data to gain insights into driver demographics, including age, gender, and race.")  
 st.write("- It aims to identify areas of improvement,")
-st.write("- find potential biases in stops based on age, gender, or race,")
+st.write("- To find potential biases in stops based on age, gender, or race,")
 st.write("- To visualize and communicate police stop data in an accessible manner for the public.")
 
 #Image
