@@ -33,11 +33,11 @@ This dataset contains 65535 rows and 15 columns.
 
 # **Tools Used**: 
 Python libraries  
-Pandas: For data manipulation and analysis.  
-Matplotlib: For creating static, interactive, and animated visualizations.   
-Seaborn: For creating visualizations to enhance data.  
-Google Colab: The environment used for executing and conducting the analysis  
-STREAMLIT : To make and publish the web app.  
+**Pandas**: For data manipulation and analysis.  
+**Matplotlib**: For creating static, interactive, and animated visualizations.   
+**Seaborn**: For creating visualizations to enhance data.  
+**Google Colab**: The environment used for executing and conducting the analysis  
+**STREAMLIT** : To make and publish the web app.  
 
 
 #For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
