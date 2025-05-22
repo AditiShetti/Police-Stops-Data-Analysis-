@@ -32,10 +32,11 @@ This dataset contains 65535 rows and 15 columns.
 📆 *Month*: Month of the stop  
 
 # **Tools Used**: 
-Python libraries  
+Python libraries - 
 **Pandas**: For data manipulation and analysis.  
 **Matplotlib**: For creating static, interactive, and animated visualizations.   
 **Seaborn**: For creating visualizations to enhance data.  
+
 **Google Colab**: The environment used for executing and conducting the analysis  
 **STREAMLIT** : To make and publish the web app.  
 
